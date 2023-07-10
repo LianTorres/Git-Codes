@@ -1,0 +1,207 @@
+#container{
+    background-color: rgb(38, 81, 117);
+    width: 1150px;
+    height: 1000px;
+}
+#container img{
+    padding-top: 20px;
+    padding-left: 30px;
+    width: 400px;
+    height: 100px;
+}
+#menudivisor{
+    background-color: rgb(64, 123, 171);
+    position: absolute;
+    width: 1020px;
+    height: 50px;
+    top: 11%;
+    left: 7%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px black;
+    margin-left: -50px;
+}
+#textsize{
+    margin-bottom: 5px;
+    font-family: arial;
+    font-size: 90%;
+    color: white;
+    margin-left: 95px;
+    text-align: right;
+    margin-right: -80px;
+}
+#textsize a{
+    color: rgb(212, 178, 0);
+}
+#buscador{
+    display: inline-block;
+    width: 285px;
+    height: 100px;
+    vertical-align: top;
+    margin-top: 2px;
+    margin-left: 270px;
+    margin-bottom: -100px;
+}
+#menubusqueda{
+    position: absolute;
+    margin-left: -200px;
+    display: inline-block;
+    max-height: 55px;
+    max-width: 300px;
+    background-color: rgb(68, 68, 68);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px black;
+    padding: 17px;
+    margin-top: 40px;
+    width: 300px;
+}
+
+input{
+    height: 30px;
+    margin-top: -7px;
+    border: 3px solid rgb(154, 154, 154);
+    margin-left: 45px;
+}
+.botom{
+    margin-left: 4px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(38, 81, 117);
+    width: 50px;
+    height: 35px;
+}
+.ind{
+    display: inline-block;
+    padding-left: 15px;
+    color: rgb(208, 217, 224);
+    font-size: 150%;
+    margin-left: 43px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fl{
+    color: yellow;
+}
+.ref{
+    margin-left: 5px;
+    color: white;
+}
+.l1{
+    list-style: none;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.indref{
+    width: 170px;
+    height: 170px;
+    margin-top: 100px;
+    margin-left: 55px;
+}
+#mtysub{
+    width: 1100px;
+}
+#mt{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 115%;
+    margin-left: 300px;
+    text-align: center;
+    margin-top: -200px;
+
+}
+.mtt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(196, 196, 42);
+    margin-left: 300px;
+    font-size: 140%;
+    text-align: center;
+    margin-bottom: -10px;
+}
+#unico{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 300px;
+    font-size: 120%;
+    text-align: center;
+    margin-top: 24px;
+}
+
+
+#divf{
+    border-top: 3px solid rgb(26, 56, 82);
+    margin-top: 40px;
+    width: 1150px;
+    min-height: 250px;
+    background-color: white;
+}
+
+.tabla{
+    display: inline-block;
+    margin-left: 110px;
+    margin-top: 10px;
+    width: 425px;
+    min-height: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 4px solid rgb(117, 168, 211);
+    vertical-align: top;
+}
+
+h3{
+    margin-top: 8px;
+    margin-left: -80px;
+    
+}
+
+#ptext1{
+    margin-top: -5px;
+    width: 330px;
+    margin-left: 20px;
+}
+
+#ptext2{
+    margin-top: -5px;
+    width: 358px;
+    margin-left: 20px;
+}
+
+.ul2{
+    margin-top: -10px;
+}
+
+.ul2 li{
+    
+    width: 263px;
+    list-style-type: square;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.ul2 a{    
+    text-decoration: none;
+    color: rgb(117, 168, 211);
+}
+h4{
+    font-size: 120%;
+    font-weight: lighter;
+    display: inline-block;
+    padding: 4%;
+    color: rgb(137, 186, 227);
+}
+
+h5{
+    margin-left: -50px;
+    margin-top: -50px;
+    color: rgb(137, 186, 227);
+    font-weight: lighter;
+    font-size: 10px;
+}
+
+#footer{
+    font-family: Arial, Helvetica, sans-serif ;
+    width: 970px;
+    display: inline-block;
+    text-align: center;  
+    margin-left: 125px;
+}

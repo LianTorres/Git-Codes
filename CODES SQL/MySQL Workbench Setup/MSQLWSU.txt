@@ -1,0 +1,4 @@
+SELECT * FROM mi_esquema.usuarios;
+INSERT usuarios VALUES (null, 'lian', 'torres', '1102');
+UPDATE usuarios SET usuarios.id = 2 WHERE usuarios.id = 1;
+DELETE FROM usuarios WHERE usuarios.id = 2 ;

@@ -1,0 +1,152 @@
+.container{
+    background-image: radial-gradient(#947785, #6F5964, #1E0E12);
+    width: 970px;
+    height: 1000px;
+}
+.tt1{
+    display: inline-block;
+    background-image: linear-gradient(rgb(240, 240, 240), rgb(255, 255, 255));
+    margin-left: 20px;
+    font-size: 215%;
+    margin-top: -5px;
+    font-family: "Comic Sans MS";
+}
+.tt2{
+    display: inline-block;
+    background-image: linear-gradient(rgb(240, 240, 240), rgb(255, 255, 255));
+    font-size: 140%;
+    margin-left:  430px;  
+}
+.imagen {
+    margin: 20px;
+    border: 6px solid;
+    border-color: silver;
+}
+.head{
+    background-image: linear-gradient(rgb(240, 240, 240), rgb(255, 255, 255));
+    width: 970px;
+    height: 50px;
+    margin-top: 10px;
+
+}
+.textoima {
+    background-color: rgb(236, 228, 235);
+    width: 500px;
+    height: 293px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px ;
+}
+.textabout{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about{
+    background-image: linear-gradient(silver,rgb(126, 126, 126),silver);
+    height: 35px;
+    font-size: 140%;
+    color: rgb(245, 242, 239);
+    padding-left: 13px;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+*a{
+    color: black;
+}
+.tarjeta{
+    display: inline-block;
+    background-image: linear-gradient(silver,rgb(126, 126, 126),silver);
+    height: 25px;
+    font-size: 140%;
+    color: rgb(245, 242, 239);
+    margin-left: 0px;
+    margin-top: 1px;
+    width: 280px;
+    padding: 10px;
+}
+.containermid{
+    background-color: rgb(236, 228, 235);
+    height: 640px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+}
+.subtext1{
+    background-color: rgb(236, 228, 235);
+    width: 970px;
+    height: 50px;
+    margin-top: 10px;
+}
+.lamode{
+    margin-top: -24px;
+}
+.family{
+    margin-top: -24px;
+}
+.five{
+    margin-top: -24px;
+}
+.textomid{
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -5px;
+    padding: 10px;
+}
+.techno
+{
+    background-image: linear-gradient(silver,rgb(126, 126, 126),silver);
+    height: 30px;
+    font-size: 140%; 
+    color: rgb(245, 242, 239);  
+    width: 290px;
+    margin-top: 1px;
+    display: inline-block;
+    padding: 5px;
+    text-align: left;
+}
+#techno1{
+    margin-top: 65px;
+}
+#techno2{
+    margin-top: 29px;
+}
+#techno3{
+    margin-top: -10px;
+}
+.tech1{
+    width: 288px;
+    height: 110px;
+    margin-top: -18px;
+}
+button{
+    margin-left: 35%;
+    padding: 5px;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404) ;
+    border: 1px solid rgb(0, 56, 0);
+    border-radius: 10px;
+    background-color: rgb(64, 125, 97);
+    text-align: justify;
+}
+.link1{
+    vertical-align: top;
+    display: inline-block;
+    margin: 3px;
+    font-size: 130%;
+    margin-left: 5px;
+}
+#pf{
+    font-family: arial;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: -50%;
+    font-size: 110%;
+}
+#divf{
+    margin-left: 14%;
+    margin-top: -5px;
+}
